@@ -4,5 +4,15 @@
     <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
     <string name="name">Muhammad Shidqul Iman</string>
     <string name="alamat">Dompu, Nusa Tenggara Barat</string>
+
+    <string name="name2">Muhammad Shidqul I</string>
+    <string name="alamat2">Dompu, NTB</string>
+    <string name="hp2">085643823813</string>
+
+    <string name="name3">M Shidqul Iman</string>
+    <string name="alamat3">Nusa Tenggara Barat</string>
+    <string name="NIM">20230140233</string>
+
     <string name="copy">copyright, 2025</string>
 </resources>
+
