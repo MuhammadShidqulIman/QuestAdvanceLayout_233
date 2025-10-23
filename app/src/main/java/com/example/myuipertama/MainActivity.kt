@@ -14,4 +14,14 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
-
+            MyUIPertamaTheme {
+                Scaffold(
+                    modifier = Modifier.fillMaxSize()
+                ) { innerPadding ->
+                    // Panggil UI utama kamu di sini
+                    AktivitasPertama(modifier = Modifier.fillMaxSize())
+                }
+            }
+        }
+    }
+}
